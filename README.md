@@ -29,7 +29,8 @@
 # Revise
 <p> If I had to revise any of these efforts, I would state that I'm constantly trying to discern the difference between functional and non-functional requirements. While this was a challenge, I formed a list of facts that distinguish the two. </p>
 
-<p> **Non-Functional Requirments:** Refer to behavioral properties the system must possess. Non-functional requirements cover the following: </p>
+<p> <b>Non-Functional Requirments:</b> Refer to behavioral properties the system must possess. Non-functional requirements cover the following: </p>
+
 - Operational in Nature
 - Cover Performance
 - Security
@@ -38,7 +39,7 @@
 <p> Non-functional requirements are used in design when decisions are made about the UI, hardware, software, and System Architecture. </p>
 <br>
 
-<p> **Functional Requirements:** Relate directly to a process a system needs to perform or the information it needs to contain. </p>
+<p> <b> Functional Requirements: </b> Relate directly to a process a system needs to perform or the information it needs to contain. </p>
 
 <br>
 
